@@ -12,3 +12,7 @@ Currently there seems to be no way to select a valid variant via UI:
 ![AppCenterDashboard](AppCenterBuildConfiguration.png)
 
 There is also no obvious way to execute full `build` command (that would work in gradle projects without need for AppCenter to detect flavors)
+
+
+### Microsoft support reply:
+`I had a discussion with the build team, they confirm that multiple flavor dimensions is not supported`
